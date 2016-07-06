@@ -34,8 +34,8 @@ class PastePicturePlugin extends MantisPlugin  {
 
 		//comment next line if jquery conflict
 		echo '<script type="text/javascript" src="plugins/PastePicture/pages/jquery-1.8.0.min.js"></script>';
-		echo '<script type="text/javascript" src="plugins/PastePicture/pages/jquery.paste_image_reader.js"></script>';
-		echo '<script type="text/javascript" src="plugins/PastePicture/pages/pastePicture.js"></script>';
+		echo '<script type="text/javascript" src="plugins/PastePicture/pages/paste.js"></script>';
+		echo '<script type="text/javascript" src="plugins/PastePicture/pages/pastePicture.js"></script>';	
 		
 		/*
 		html_javascript_link( 'jquery-1.8.0.min.js' );
